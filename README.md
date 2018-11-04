@@ -1,4 +1,4 @@
-# vue-demo-vutify
+# vue-demo-vuetify
 
 ## Project setup
 ```
