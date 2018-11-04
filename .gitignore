@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+makefile
 # /dist
 
 # local env files
